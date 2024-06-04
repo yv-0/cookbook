@@ -2,10 +2,10 @@ CHAPTER 1. BREAD
 
 Recipe 1.1: Basic Bread
 Ingredients:
-- flour
-- salt
-- water
-- yeast
+- flour (4 cups)
+- salt (1 teaspoon)
+- water (500ml)
+- yeast (1 teaspoon)
 
 Instructions:
 - dump everything in breadmaker for awful bread
